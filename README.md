@@ -4,7 +4,7 @@
   (lambda (property)
     (match property
       ['mother-tongue `(lisp zh)]
-      ['languages `(cpp py js rust hs scala jl
+      ['languages `(rs rs rs cpp py js hs scala
                     en eo la jp)]
       ['interests `(programming-language compiler deep-learning
                     🎷jazz 🎸guitar 🔭curiosity)])))
